@@ -18,7 +18,7 @@ Cloud and security-focused IT professional in Dallas, Texas. I learn by building
 
 | Project | What it shows |
 |---|---|
-| [terraform-azure-static-site](https://github.com/dearley25/terraform-azure-static-site) | Infrastructure as code: a hardened Azure Storage static website deployed with Terraform, with CI checks in GitHub Actions |
+| [terraform-azure-static-site](https://github.com/dearley25/terraform-azure-static-site) | Infrastructure as code: a hardened Azure Storage static website deployed with Terraform, with CI checks in GitHub Actions. [Live site](https://ststaticsiteviakeo.z13.web.core.windows.net/) |
 | [rhel-aws-administration-lab](https://github.com/dearley25/rhel-aws-administration-lab) | Red Hat Enterprise Linux 10 on AWS EC2: SSH access, updates and a security hardening roadmap |
 | [AWS-Labs](https://github.com/dearley25/AWS-Labs) | AWS fundamentals: EC2, key pairs, IAM, and a VPC with public/private subnets and a NAT instance |
 | [T3chSpec](https://github.com/dearley25/T3chSpec) | Full-stack Node.js app with Cloudflare R2 object storage, Stripe Checkout and presigned downloads, deployed on Render |
